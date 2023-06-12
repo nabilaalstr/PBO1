@@ -1,21 +1,18 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package pbo1;
 
-/**
- *
- * @author nabil
- */
+package PBO1;
+
+
 public class PBO1 {
 
-    /**
-     * @param args the command line arguments
-     */
+ //membuat method main
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Nama  : Nabila Ayudya Lestari");
+        System.out.println("NPM   : 2110010309");
+        System.out.println("Kelas : 4B Nonreg Banjarmasin");
+        System.out.println("TTL   : Mungkur Uyam, 13 November 2003");
+        System.out.println("Hobby : menggambar");
+         System.out.println("Terima Kasih");
+        
     }
     
 }
